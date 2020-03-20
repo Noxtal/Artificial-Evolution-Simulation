@@ -1,6 +1,6 @@
 # Artificial-Evolution-Simulation
 
-Javascript simulation of a population evolving over time depending on 4 variables
+Javascript simulation of a population growing over time depending on 4 variables:
 
 - Birth Rate (**B**): Chance that a creature appears spontaneously in the world at each timestep.
 - Death Rate (**D**): Chance of dying that every creatures has at each timestep.

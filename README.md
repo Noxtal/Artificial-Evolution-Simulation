@@ -11,4 +11,4 @@ Javascript simulation of a population evolving over time depending on 3 variable
 
 This simulation is disponible on my website: code.zedev2.io/Evolution.html. To run locally, clone the project and run index.html in your browser.
 
-The graphs are made using [Plotly](https://plot.ly/javascript/).
+Graph made using [Plotly](https://plot.ly/javascript/).

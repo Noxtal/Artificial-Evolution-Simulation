@@ -1,0 +1,73 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Roboto", sans-serif;
+  overflow: scroll;
+}
+
+html{
+  height: 100%;
+}
+
+body{
+  min-height: 100%;
+  overflow: auto;
+}
+
+p{
+  margin: auto;
+}
+
+.vardiv {
+  font-weight: bolder;
+  height: 100%;
+}
+
+#config {
+  display:flex;
+  height: 100%;
+  flex: 1;
+}
+
+input[type=text] {
+  padding: 12px 20px;
+  width:98%;
+  box-sizing: border-box;
+  border: 3px solid #ccc;
+  -webkit-transition: 0.3s;
+  transition: 0.5s;
+  outline: none;
+}
+
+input[type=text]:focus {
+  border: 3px solid #555;
+}
+
+.slider {
+  -webkit-appearance: none;
+  width: 98%;
+  height: auto;
+  margin: auto;
+  background: #d3d3d3;
+  outline: none;
+  opacity: 0.7;
+  -webkit-transition: 0.2s;
+  transition: opacity 0.2s;
+}
+
+.slider::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 5%;
+  height: 8px;
+  background: rgb(76, 175, 167);
+  cursor: pointer;
+}
+
+.slider::-moz-range-thumb {
+  width: 5%;
+  height: 8px;
+  background: rgb(76, 175, 167);
+  cursor: pointer;
+}

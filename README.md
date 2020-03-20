@@ -1,6 +1,6 @@
 # Artificial-Evolution-Simulation
 
-Javascript simulation of a population evolving over time depending on 3 variables
+Javascript simulation of a population evolving over time depending on 4 variables
 
 - Birth Rate (**B**): Chance that a creature appears spontaneously in the world at each timestep.
 - Death Rate (**D**): Chance of dying that every creatures has at each timestep.
@@ -12,3 +12,5 @@ Javascript simulation of a population evolving over time depending on 3 variable
 This simulation is disponible on my website: code.zedev2.io/Evolution.html. To run locally, clone the project and run index.html in your browser.
 
 Graph made using [Plotly](https://plot.ly/javascript/).
+
+Based on [Primer](https://www.youtube.com/channel/UCKzJFdi57J53Vr_BkTfN3uQ)'s videos on evolution.

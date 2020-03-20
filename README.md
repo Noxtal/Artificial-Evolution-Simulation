@@ -9,7 +9,7 @@ Javascript simulation of a population growing over time depending on 4 variables
 
 **INTERACTIVE:** Use the integrated sliders to control those variables live.
 
-This simulation is disponible on my website: [code.zedev2.io](code.zedev2.io/Evolution.html). To run locally, clone the project and run index.html in your browser.
+This simulation is disponible on my website: [code.zedev2.io](https://www.code.zedev2.io/Evolution.html). To run locally, clone the project and run index.html in your browser.
 
 Graph made using [Plotly](https://plot.ly/javascript/).
 
